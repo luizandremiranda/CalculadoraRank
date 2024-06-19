@@ -4,7 +4,7 @@ function resul(win, lose){
   }
   
   
-  let resultao = resul(110, 38)
+  let resultado = resul(110, 38)
   let lutas = resultado.rank
   let posicao = ""
   
